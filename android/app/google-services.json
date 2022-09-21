@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "362429614005",
+    "project_id": "as-tour-1bbea",
+    "storage_bucket": "as-tour-1bbea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362429614005:android:3e10efb8b665a7f5e63bfc",
+        "android_client_info": {
+          "package_name": "com.example.shelter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362429614005-pcjea7cr3taoh1cfechvv40dvnu5h16c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shelter",
+            "certificate_hash": "867da795c40a9059599697a54c1f1946e37eb834"
+          }
+        },
+        {
+          "client_id": "362429614005-ikfuhkq5ct9vqhbhk475ns5jkrhlpleu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJvefP6J5Q-oc8dJLdFGJSsS8HU5Ps9pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362429614005-ikfuhkq5ct9vqhbhk475ns5jkrhlpleu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
